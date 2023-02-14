@@ -1,0 +1,121 @@
+body {
+	background:#101012;
+}
+.pagina1 {
+background:#424242;	
+border:3px solid #cfe;
+display:inline-block;
+padding-left:237px;
+padding-right:237px;
+}
+
+h1 {
+font-size:90px;
+color:#00a554;
+margin-left:15px;
+text-decoration:underline;
+text-align:center;
+font-family:fantasy;
+font-weight:300;
+}
+
+h2 {
+text-align:center;
+text-decoration:overline;
+font-size:40px;
+font-style:italic;
+color:#58b;
+}
+
+
+.pagina2 {
+background:#202023;
+border:3px solid #978;
+display:inline-block;
+float:left;
+}
+.pagina2:hover {
+background:#424242;
+border:3px solid #fbd;
+scale:101%
+}
+h3 {
+margin-left:60px;
+text-decoration:underline;
+font-size:36px;
+color:#612;
+}
+
+
+ul {
+font-size:30px;
+color:#88ffd9;
+margin-left:50px;
+font-style:italic;
+margin-right:110px;
+}
+.pagina3 {
+display:inline-block;	
+background:#424242;
+border:3px solid #5a9;
+}
+p {
+	font-size:25px;
+	color:#ebf;
+	margin-left:50px;
+	border:2px solid #ebf;
+	margin-right:180px;
+	margin-bottom:76px;
+	background-color:#111;
+
+    
+}
+h4 {
+margin-left:50px;
+text-decoration:underline;
+font-size:36px;
+color:#64b;
+padding-right:100px;
+margin-left:60px;
+
+}
+
+.pagina3:hover {
+background:#313132;
+border:3px solid #fbd;
+scale:101%;
+}
+
+.tatu {
+	float:left;
+	border:3px solid #ffd;
+	background-color:#221;
+}
+
+img {
+	height:90px;
+	width:210px;
+	margin-right:60px;
+	margin-left:60px;
+	margin-top:-50px;
+	margin-bottom:50px;
+}
+h5 {
+	margin-left:80px;
+color:#652;
+text-decoration:underline;
+font-size:36px;
+margin-bottom:50px;
+
+
+}
+
+img:hover {
+	scale:105%;
+	transform:rotate(720deg);
+	transition-duration:2s;
+		height:90px;
+	width:270px;
+	margin-right:30px;
+	margin-left:30px;
+}
